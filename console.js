@@ -1,6 +1,6 @@
         let firstname = "santhosh"
-        console.log("value of the variable is",firstnamename)
-        console.log("datatype:",typeof(firstnamename))
+        console.log("value of the variable is",firstname)
+        console.log("datatype:",typeof(firstname))
 
         let age = 24
         console.log("value of the variable is",age)
@@ -21,3 +21,4 @@
         let mobiles = ["vivo","apple","oneplus"]
         console.log ("value of the variables is",mobiles)
         console.log ("datatype:",typeof(mobiles))
+
